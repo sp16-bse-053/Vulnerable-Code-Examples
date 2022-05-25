@@ -12,7 +12,10 @@ package array_sum;
 public class Array_Sum {
 
     
-    
+    int a = "200";
+    String b = 10;
+    int c;
+    String d = ""
     
     public static void main(String[] args) {
        Scanner inp = new Scanner (System.in);
